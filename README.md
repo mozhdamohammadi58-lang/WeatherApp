@@ -55,4 +55,4 @@ Enter a city name (e.g., Kabul, London, Tehran).
 
 Click "Search Weather" to view results.
 
-Author: Mozhda Mohammadi
+Author: [Mozhda Mohammadi]
